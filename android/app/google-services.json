@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078948675730",
+    "firebase_url": "https://iot-smart-jar-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-smart-jar",
+    "storage_bucket": "iot-smart-jar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078948675730:android:64208c266d507d53bf664b",
+        "android_client_info": {
+          "package_name": "com.example.smart_jar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078948675730-0dr47fso4g2spm39voq2ou0gu13i5tsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASolNms2uBtKHb15B04NqpscJ7pGBboU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078948675730-0dr47fso4g2spm39voq2ou0gu13i5tsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
